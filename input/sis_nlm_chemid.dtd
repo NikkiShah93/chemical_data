@@ -1,0 +1,55 @@
+<!--===================================================-->
+<!--ChemIDplus DTD
+This is the current DTD which NLM has written for 
+external use.
+
+Comments and suggestions are welcome.
+2005/04/28
+
+-->
+<!--===================================================-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated from chemid.xml by XMLBuddy -->
+<!ELEMENT CASRegistryNumber (#PCDATA|SourceList)*>
+<!ELEMENT Chemical (NameList,NumberList,ClassificationList,FormulaList,FormulaFragmentList,NoteList,LocatorList)>
+<!ATTLIST Chemical
+	displayFormula CDATA #REQUIRED
+	displayName CDATA #REQUIRED
+	id NMTOKEN #REQUIRED
+>
+<!ELEMENT ClassificationCode (#PCDATA|SourceList)*>
+<!ELEMENT ClassificationList (ClassificationCode|SuperlistClassCode)*>
+<!ELEMENT DescriptorName (#PCDATA)>
+<!ELEMENT FileLocator (#PCDATA)>
+<!ATTLIST FileLocator url CDATA #IMPLIED>
+<!ELEMENT FormulaFragment (#PCDATA|SourceList)*>
+<!ELEMENT FormulaFragmentList (FormulaFragment*)>
+<!ELEMENT FormulaList (MolecularFormula*)>
+<!ELEMENT IdentificationNumber (#PCDATA|SourceList)*>
+<!ELEMENT InternetLocator (#PCDATA)>
+<!ATTLIST InternetLocator url CDATA #IMPLIED>
+<!ELEMENT LocatorList (FileLocator|InternetLocator|SuperlistLocator)*>
+<!ELEMENT MixtureName (#PCDATA|SourceList)*>
+<!ELEMENT MolecularFormula (#PCDATA|SourceList)*>
+<!ELEMENT NameList (DescriptorName|MixtureName|NameOfSubstance|SuperListName|Synonyms|SystematicName)*>
+<!ELEMENT NameOfSubstance (#PCDATA|SourceList)*>
+<!ELEMENT Note (#PCDATA|SourceList)*>
+<!ELEMENT NoteList (Note|SuperlistNote)*>
+<!ELEMENT NumberList (CASRegistryNumber|IdentificationNumber|OtherRegistryNumber|RelatedRegistryNumber)*>
+<!ELEMENT OtherRegistryNumber (#PCDATA|SourceList)*>
+<!ELEMENT RelatedRegistryNumber (#PCDATA|SourceList)*>
+<!ELEMENT Source (#PCDATA)>
+<!ELEMENT SourceList (Source*)>
+<!ELEMENT SuperListName (#PCDATA|SourceList)*>
+<!ELEMENT SuperlistClassCode (#PCDATA|SourceList)*>
+<!ELEMENT SuperlistLocator (#PCDATA)>
+<!ATTLIST SuperlistLocator url CDATA #IMPLIED>
+<!ELEMENT SuperlistNote (#PCDATA|SourceList)*>
+<!ELEMENT Synonyms (#PCDATA|SourceList)*>
+<!ELEMENT SystematicName (#PCDATA|SourceList)*>
+<!ELEMENT file (Chemical+)>
+<!ATTLIST file
+	date CDATA #REQUIRED
+	name NMTOKEN #REQUIRED
+>

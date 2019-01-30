@@ -1,0 +1,6078 @@
+<?xml version="1.0"?>
+<!DOCTYPE SupplementalRecordSet SYSTEM "https://www.nlm.nih.gov/databases/dtd/nlmsupplementalrecordset_20180101.dtd">
+<SupplementalRecordSet LanguageCode = "eng">
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C114158</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>quantum dye macrocyclic europium-chelate</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1998</Year>
+   <Month>09</Month>
+   <Day>14</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2003</Year>
+   <Month>08</Month>
+   <Day>08</Day>
+  </DateRevised>
+  <Note>a macrocyclic europium-chelate; structure in first source
+  </Note>
+  <Frequency>2</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D005063</DescriptorUI>
+     <DescriptorName>
+      <String>Europium</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D009942</DescriptorUI>
+     <DescriptorName>
+      <String>Organometallic Compounds</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Glycobiology 1998 Sep;8(9):849-56</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0294520</ConceptUI>
+    <ConceptName>
+     <String>quantum dye macrocyclic europium-chelate</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T324525</TermUI>
+      <String>quantum dye macrocyclic europium-chelate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1998)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T324524</TermUI>
+      <String>QD macrocyclic</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1998)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008718</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>osteoclast activating factor</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>07</Month>
+   <Day>28</Day>
+  </DateRevised>
+  <Note>found in supernatants of cultured human leukocytes; assayed by ability to stimulate bone resorption in organ culture in mechanism of localized bone loss
+  </Note>
+  <Frequency>81</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D008222</DescriptorUI>
+     <DescriptorName>
+      <String>Lymphokines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D001862</DescriptorUI>
+     <DescriptorName>
+      <String>Bone Resorption</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+   </IndexingInformation>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D010010</DescriptorUI>
+     <DescriptorName>
+      <String>Osteoclasts</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Ann N Y Acad Sci 230(0):474;1974</Source>
+   <Source>Ann N Y Acad Sci 256(0):133;1975</Source>
+   <Source>Calcif Tissue Int 1979;29(3):201</Source>
+   <Source>Calcif Tissue Res 1979;28(1):23</Source>
+   <Source>Cell Immunol 1980;49(1):74</Source>
+   <Source>Eur J Immunol 6:732;1976</Source>
+   <Source>J Clin Invest 64(1):337;1979</Source>
+   <Source>J Exp Med 149(1):279;1979</Source>
+   <Source>J Lab Clin Med 92(5):772;1978</Source>
+   <Source>Surg Clin North America 57(3):543;1977</Source>
+   <Source>WE 200 M486:127;1977</Source>
+   <Source>WE 200 M486:13;1977</Source>
+   <Source>WE 200 M486:319;1977</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052808</ConceptUI>
+    <ConceptName>
+     <String>osteoclast activating factor</String>
+    </ConceptName>
+    <RegistryNumber>64060-24-8</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082811</TermUI>
+      <String>osteoclast activating factor</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008720</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>otoline</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1995</Year>
+   <Month>07</Month>
+   <Day>21</Day>
+  </DateRevised>
+  <Note>analog of cpd 48-80; oligomeric product (n-6-8); Russian drug
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011108</DescriptorUI>
+     <DescriptorName>
+      <String>Polymers</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D006636</DescriptorUI>
+     <DescriptorName>
+      <String>Histamine Release</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+    <QualifierReferredTo>
+    <QualifierUI>Q000187</QualifierUI>
+     <QualifierName>
+      <String>drug effects</String>
+      </QualifierName>
+     </QualifierReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Farmakol Toksikol 36(5):614;1973</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052812</ConceptUI>
+    <ConceptName>
+     <String>otoline</String>
+    </ConceptName>
+    <RegistryNumber>50643-04-4</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082815</TermUI>
+      <String>otoline</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C002540</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>miracil A</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1972</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2003</Year>
+   <Month>08</Month>
+   <Day>08</Day>
+  </DateRevised>
+  <Note>structure in first source
+  </Note>
+  <Frequency>1</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*ETHYLENEDIAMINES (72-75)</PreviousIndexing>
+   <PreviousIndexing>*XANTHENES (72-75)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D008154</DescriptorUI>
+     <DescriptorName>
+      <String>Lucanthone</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Prog Drug Res 16:11;1972</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0043189</ConceptUI>
+    <ConceptName>
+     <String>miracil A</String>
+    </ConceptName>
+    <CASN1Name>9H-Xanthen-9-one, 1-((2-(diethylamino)ethyl)amino)-4-methyl-</CASN1Name>
+    <RegistryNumber>3569-84-4</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T073192</TermUI>
+      <String>miracil A</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1972)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C442463</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>rescinamine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>2002</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Frequency>3</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D012110</DescriptorUI>
+     <DescriptorName>
+      <String>Reserpine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Anal Sci 2001 Jul;17(7):865-8</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0409011</ConceptUI>
+    <ConceptName>
+     <String>rescinamine</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T475410</TermUI>
+      <String>rescinamine</String>
+      <DateCreated>
+       <Year>2002</Year>
+       <Month>01</Month>
+       <Day>01</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2002)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C055240</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>Leakadine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1988</Year>
+   <Month>04</Month>
+   <Day>20</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>02</Month>
+   <Day>06</Day>
+  </DateRevised>
+  <Note>may contain 2-carbamoylaziridine
+  </Note>
+  <Frequency>8</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D001388</DescriptorUI>
+     <DescriptorName>
+      <String>Aziridines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Vopr Onkol 1988;34(2):192</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0155620</ConceptUI>
+    <ConceptName>
+     <String>Leakadine</String>
+    </ConceptName>
+    <RegistryNumber>91433-16-8</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="TRD"  RecordPreferredTermYN="Y">
+      <TermUI>T185625</TermUI>
+      <String>Leakadine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1988)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T185624</TermUI>
+      <String>Leakadin</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1988)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T185623</TermUI>
+      <String>Leacadin</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1988)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C060863</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>conduritol aziridine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1989</Year>
+   <Month>10</Month>
+   <Day>04</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2005</Year>
+   <Month>11</Month>
+   <Day>03</Day>
+  </DateRevised>
+  <Note>inhibits both alpha- and beta-glucosidases; structure given in first source
+  </Note>
+  <Frequency>2</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D001388</DescriptorUI>
+     <DescriptorName>
+      <String>Aziridines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D007294</DescriptorUI>
+     <DescriptorName>
+      <String>Inositol</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D050112</DescriptorUI>
+     <DescriptorName>
+      <String>Imino Pyranoses</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D001617</DescriptorUI>
+     <DescriptorName>
+      <String>beta-Glucosidase</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+    <QualifierReferredTo>
+    <QualifierUI>Q000037</QualifierUI>
+     <QualifierName>
+      <String>antagonists &amp; inhibitors</String>
+      </QualifierName>
+     </QualifierReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Biochem Biophys Res Commun 1989;163(1):495</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0168905</ConceptUI>
+    <ConceptName>
+     <String>conduritol aziridine</String>
+    </ConceptName>
+    <CASN1Name>7-Azabicyclo(4.1.0)heptane-2,3,4,5-tetrol, (1alpha,2alpha,3beta,4alpha,5beta,6alpha)-</CASN1Name>
+    <RegistryNumber>123788-61-4</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T198910</TermUI>
+      <String>conduritol aziridine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1989)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T198909</TermUI>
+      <String>1,2-dideoxy-1,2-iminoinositol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1989)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T198908</TermUI>
+      <String>1,2-dideoxy-1,2-epimino-myo-inositol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1989)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "2">
+  <SupplementalRecordUI>C115988</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>STAMP V regimen</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1998</Year>
+   <Month>12</Month>
+   <Day>17</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2004</Year>
+   <Month>12</Month>
+   <Day>13</Day>
+  </DateRevised>
+  <Note>chemotherapy protocol consisting of above cpds; used in the treatment of advanced breast cancer
+  </Note>
+  <Frequency>9</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D000971</DescriptorUI>
+     <DescriptorName>
+      <String>Antineoplastic Combined Chemotherapy Protocols</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D003520</DescriptorUI>
+     <DescriptorName>
+      <String>Cyclophosphamide</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D013852</DescriptorUI>
+     <DescriptorName>
+      <String>Thiotepa</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D016190</DescriptorUI>
+     <DescriptorName>
+      <String>Carboplatin</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Med Oncol 1998 Jul;15(2):89-95</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0298409</ConceptUI>
+    <ConceptName>
+     <String>STAMP V regimen</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T328414</TermUI>
+      <String>STAMP V regimen</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1998)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T328413</TermUI>
+      <String>STAMP-V regimen</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1998)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008725</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>1-oxacephalothin</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1975</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Note>structure
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D002512</DescriptorUI>
+     <DescriptorName>
+      <String>Cephalothin</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Am Chem Soc 96(24):7582;1974</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052819</ConceptUI>
+    <ConceptName>
+     <String>1-oxacephalothin</String>
+    </ConceptName>
+    <CASN1Name>5-Oxa-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid, 3-((acetyloxy)methyl)-8-oxo-7-((2-thienylacetyl)amino)-, monosodium salt, trans-(+-)-</CASN1Name>
+    <RegistryNumber>54214-84-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082822</TermUI>
+      <String>1-oxacephalothin</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008727</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>oxaluric acid</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1990</Year>
+   <Month>09</Month>
+   <Day>28</Day>
+  </DateRevised>
+  <Frequency>11</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*OXALATES (74-75)</PreviousIndexing>
+   <PreviousIndexing>AMIDES (74-75)</PreviousIndexing>
+   <PreviousIndexing>CARBAMATES (74-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D010072</DescriptorUI>
+     <DescriptorName>
+      <String>Oxamic Acid</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Bacteriol 117(3):1240;1974</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052823</ConceptUI>
+    <ConceptName>
+     <String>oxaluric acid</String>
+    </ConceptName>
+    <RegistryNumber>585-05-7</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0052823</Concept1UI>
+     <Concept2UI>M0052821</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0052823</Concept1UI>
+     <Concept2UI>M0052822</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082826</TermUI>
+      <String>oxaluric acid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0052821</ConceptUI>
+    <ConceptName>
+     <String>carbamoyloxamic acid</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0052823</Concept1UI>
+     <Concept2UI>M0052821</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T082824</TermUI>
+      <String>carbamoyloxamic acid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0052822</ConceptUI>
+    <ConceptName>
+     <String>oxalurate</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0052823</Concept1UI>
+     <Concept2UI>M0052822</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T082825</TermUI>
+      <String>oxalurate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C414549</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>MB21 peptide</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>2000</Year>
+   <Month>10</Month>
+   <Day>24</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2002</Year>
+   <Month>01</Month>
+   <Day>21</Day>
+  </DateRevised>
+  <Note>synthetic peptide with antimicrobial activity against a broad spectrum of microorganisms including various fungi; FYI - One other Medline citation (UI- 99402762 Appl Environ Microbiol 1999 Sep;65(9):4148-54) refers
+  </Note>
+  <Frequency>3</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010455</DescriptorUI>
+     <DescriptorName>
+      <String>Peptides</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Biochemistry 2000 Oct 3;39(39):11907-12</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0371423</ConceptUI>
+    <ConceptName>
+     <String>MB21 peptide</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T427025</TermUI>
+      <String>MB21 peptide</String>
+      <DateCreated>
+       <Year>2000</Year>
+       <Month>10</Month>
+       <Day>24</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2000)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T427026</TermUI>
+      <String>Ac-MB21-NH2</String>
+      <DateCreated>
+       <Year>2000</Year>
+       <Month>10</Month>
+       <Day>24</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2000)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T427027</TermUI>
+      <String>FASLLGKALKALAKQ</String>
+      <DateCreated>
+       <Year>2000</Year>
+       <Month>10</Month>
+       <Day>24</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2000)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C539394</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>N-(3-(1-(2-(benzylamino)-1-methylethyl)-3-(2-(3-fluorophenyl)ethyl)-2-thioxoimidazolidin-4-yl)propyl)guanidine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>2009</Year>
+   <Month>03</Month>
+   <Day>27</Day>
+  </DateCreated>
+  <Note>an MCH1 receptor antagonist; structure in first source
+  </Note>
+  <Frequency>2</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D005031</DescriptorUI>
+     <DescriptorName>
+      <String>Ethylenethiourea</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D006146</DescriptorUI>
+     <DescriptorName>
+      <String>Guanidines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Eur J Pharmacol 2009 Jan 14;602(2-3):194-202</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0534096</ConceptUI>
+    <ConceptName>
+     <String>N-(3-(1-(2-(benzylamino)-1-methylethyl)-3-(2-(3-fluorophenyl)ethyl)-2-thioxoimidazolidin-4-yl)propyl)guanidine</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0534096</Concept1UI>
+     <Concept2UI>M0534097</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T748238</TermUI>
+      <String>N-(3-(1-(2-(benzylamino)-1-methylethyl)-3-(2-(3-fluorophenyl)ethyl)-2-thioxoimidazolidin-4-yl)propyl)guanidine</String>
+      <DateCreated>
+       <Year>2009</Year>
+       <Month>03</Month>
+       <Day>27</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2009)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0534097</ConceptUI>
+    <ConceptName>
+     <String>TPI 1361-17</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0534096</Concept1UI>
+     <Concept2UI>M0534097</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T748239</TermUI>
+      <String>TPI 1361-17</String>
+      <DateCreated>
+       <Year>2009</Year>
+       <Month>03</Month>
+       <Day>27</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2009)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008736</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>6-oxomestranol-6-(O-carboxymethyl)oxime</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>09</Month>
+   <Day>03</Day>
+  </DateRevised>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*NORPREGNANES (74-79)</PreviousIndexing>
+   <PreviousIndexing>*PREGNATRIENES (74-79)</PreviousIndexing>
+   <PreviousIndexing>KETOSTEROIDS (74-79)</PreviousIndexing>
+   <PreviousIndexing>OXIMES (74-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D008656</DescriptorUI>
+     <DescriptorName>
+      <String>Mestranol</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Steroids 22(3):327;1973</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052843</ConceptUI>
+    <ConceptName>
+     <String>6-oxomestranol-6-(O-carboxymethyl)oxime</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082846</TermUI>
+      <String>6-oxomestranol-6-(O-carboxymethyl)oxime</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008737</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>2-oxo-3-phenyl-1,2,3,4-tetrahydropyrido(2,3-c)pyrazine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>09</Month>
+   <Day>07</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>PYRIDINES (74-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011719</DescriptorUI>
+     <DescriptorName>
+      <String>Pyrazines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Med Chem 16(11):1296;1973</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052844</ConceptUI>
+    <ConceptName>
+     <String>2-oxo-3-phenyl-1,2,3,4-tetrahydropyrido(2,3-c)pyrazine</String>
+    </ConceptName>
+    <CASN1Name>3,4-dihydro-3-phenylpyrido(3,4-b)pyrazin-2(1H)-one</CASN1Name>
+    <RegistryNumber>43064-15-9</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082847</TermUI>
+      <String>2-oxo-3-phenyl-1,2,3,4-tetrahydropyrido(2,3-c)pyrazine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008738</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>9-oxoprostanoic acid</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1975</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*PROSTAGLANDINS (74-75)</PreviousIndexing>
+   <PreviousIndexing>CYCLOPENTANES (74-75)</PreviousIndexing>
+   <PreviousIndexing>FATTY ACIDS (74-75)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011466</DescriptorUI>
+     <DescriptorName>
+      <String>Prostanoic Acids</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Experientia 29(8):990;1973</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052845</ConceptUI>
+    <ConceptName>
+     <String>9-oxoprostanoic acid</String>
+    </ConceptName>
+    <RegistryNumber>64122-56-1</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082848</TermUI>
+      <String>9-oxoprostanoic acid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C042750</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3,4-dihydroxystyrene</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1984</Year>
+   <Month>10</Month>
+   <Day>25</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2012</Year>
+   <Month>11</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Frequency>1</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D013343</DescriptorUI>
+     <DescriptorName>
+      <String>Styrenes</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D010651</DescriptorUI>
+     <DescriptorName>
+      <String>Phenylalanine Hydroxylase</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+    <QualifierReferredTo>
+    <QualifierUI>Q000037</QualifierUI>
+     <QualifierName>
+      <String>antagonists &amp; inhibitors</String>
+      </QualifierName>
+     </QualifierReferredTo>
+   </IndexingInformation>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D014365</DescriptorUI>
+     <DescriptorName>
+      <String>Tryptophan Hydroxylase</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+    <QualifierReferredTo>
+    <QualifierUI>Q000037</QualifierUI>
+     <QualifierName>
+      <String>antagonists &amp; inhibitors</String>
+      </QualifierName>
+     </QualifierReferredTo>
+   </IndexingInformation>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D014446</DescriptorUI>
+     <DescriptorName>
+      <String>Tyrosine 3-Monooxygenase</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+    <QualifierReferredTo>
+    <QualifierUI>Q000037</QualifierUI>
+     <QualifierName>
+      <String>antagonists &amp; inhibitors</String>
+      </QualifierName>
+     </QualifierReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Biochim Biophys Acta 1984;789(2):111</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0126084</ConceptUI>
+    <ConceptName>
+     <String>3,4-dihydroxystyrene</String>
+    </ConceptName>
+    <RegistryNumber>28C0I29E70</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>6053-02-7 (3,4-dihydroxystyrene)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T156089</TermUI>
+      <String>3,4-dihydroxystyrene</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2013)</ThesaurusID>
+       <ThesaurusID>NLM (1984)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008739</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>7-oxo-delta(1)-tetrahydrocannabinol</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1975</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateRevised>
+  <Note>aldehydic intermediate in metabolism of tetrahydrocannabinol; structure
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*TETRAHYDROCANNABINOL (74-75)</PreviousIndexing>
+   <PreviousIndexing>ALDEHYDES (74-75)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D013759</DescriptorUI>
+     <DescriptorName>
+      <String>Dronabinol</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Res Commun Chem Pathol Pharmacol 8(2):223;1974</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052846</ConceptUI>
+    <ConceptName>
+     <String>7-oxo-delta(1)-tetrahydrocannabinol</String>
+    </ConceptName>
+    <RegistryNumber>52663-85-1</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082849</TermUI>
+      <String>7-oxo-delta(1)-tetrahydrocannabinol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008722</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>methyl 6-(1,2,2-trichloroethenyl)imidazo(1,2-a)pyridine-2-carbamate</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1982</Year>
+   <Month>01</Month>
+   <Day>26</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>02</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Note>structure in first source
+  </Note>
+  <Frequency>1</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D001562</DescriptorUI>
+     <DescriptorName>
+      <String>Benzimidazoles</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Med Chem 1981;24(12):1518</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052817</ConceptUI>
+    <ConceptName>
+     <String>methyl 6-(1,2,2-trichloroethenyl)imidazo(1,2-a)pyridine-2-carbamate</String>
+    </ConceptName>
+    <CASN1Name>Carbamic acid, (6-(trichloroethenyl)imidazo(1,2-a)pyridin-2-yl)-, methyl ester</CASN1Name>
+    <RegistryNumber>71820-94-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082820</TermUI>
+      <String>methyl 6-(1,2,2-trichloroethenyl)imidazo(1,2-a)pyridine-2-carbamate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1982)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T082819</TermUI>
+      <String>MTCE-IPC</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1982)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C009850</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>azobenzene</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1968</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2012</Year>
+   <Month>11</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Note>photosensor molecule known to undergo reversible isomerization from trans to cis on illumination with photons of appropriate wavelength; RN given refers to cpd without isomeric designation; structure
+  </Note>
+  <Frequency>813</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>BENZENE DERIVATIVES (75-77)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D001391</DescriptorUI>
+     <DescriptorName>
+      <String>Azo Compounds</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Biochem (Tokyo) 1980;87(1):57</Source>
+   <Source>Mutation Res 54(1):605;1978</Source>
+   <Source>Nature 254(5497):253;1975</Source>
+   <Source>Z Krebsforsch 87:327;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0054909</ConceptUI>
+    <ConceptName>
+     <String>azobenzene</String>
+    </ConceptName>
+    <RegistryNumber>F0U1H6UG5C</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>103-33-3 (azobenzene)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>1080-16-6 ((Z)-isomer)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>17082-12-1 ((E)-isomer)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>85847-74-1 (T-labeled cpd)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0054909</Concept1UI>
+     <Concept2UI>M0310948</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0054909</Concept1UI>
+     <Concept2UI>M0310949</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0054909</Concept1UI>
+     <Concept2UI>M0310950</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T084912</TermUI>
+      <String>azobenzene</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2013)</ThesaurusID>
+       <ThesaurusID>NLM (1968)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0310948</ConceptUI>
+    <ConceptName>
+     <String>azobenzene, (Z)-isomer</String>
+    </ConceptName>
+    <RegistryNumber>1080-16-6</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0054909</Concept1UI>
+     <Concept2UI>M0310948</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T340948</TermUI>
+      <String>azobenzene, (Z)-isomer</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1968)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0310949</ConceptUI>
+    <ConceptName>
+     <String>azobenzene, (E)-isomer</String>
+    </ConceptName>
+    <RegistryNumber>17082-12-1</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0054909</Concept1UI>
+     <Concept2UI>M0310949</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T340949</TermUI>
+      <String>azobenzene, (E)-isomer</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1968)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0310950</ConceptUI>
+    <ConceptName>
+     <String>azobenzene, T-labeled</String>
+    </ConceptName>
+    <RegistryNumber>85847-74-1</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0054909</Concept1UI>
+     <Concept2UI>M0310950</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T340950</TermUI>
+      <String>azobenzene, T-labeled</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1968)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008746</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>30-oxyethylated t-octyl phenol formaldehyde tetramer</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1997</Year>
+   <Month>08</Month>
+   <Day>13</Day>
+  </DateRevised>
+  <Note>reduces thromboatherosclerosis &amp; cholesterol atherosclerosis; structure
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011092</DescriptorUI>
+     <DescriptorName>
+      <String>Polyethylene Glycols</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D001161</DescriptorUI>
+     <DescriptorName>
+      <String>Arteriosclerosis</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+    <QualifierReferredTo>
+    <QualifierUI>Q000188</QualifierUI>
+     <QualifierName>
+      <String>drug therapy</String>
+      </QualifierName>
+     </QualifierReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Exp Mol Pathol 20(2):154;1974</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052859</ConceptUI>
+    <ConceptName>
+     <String>30-oxyethylated t-octyl phenol formaldehyde tetramer</String>
+    </ConceptName>
+    <RegistryNumber>12584-89-3</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082862</TermUI>
+      <String>30-oxyethylated t-octyl phenol formaldehyde tetramer</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C031763</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>1,3-butadiene</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1981</Year>
+   <Month>10</Month>
+   <Day>10</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2013</Year>
+   <Month>10</Month>
+   <Day>24</Day>
+  </DateRevised>
+  <Frequency>716</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D002070</DescriptorUI>
+     <DescriptorName>
+      <String>Butadienes</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+    <PharmacologicalActionList>
+     <PharmacologicalAction>
+      <DescriptorReferredTo>
+       <DescriptorUI>D002273</DescriptorUI>
+        <DescriptorName>
+         <String>Carcinogens</String>
+        </DescriptorName>
+      </DescriptorReferredTo>
+     </PharmacologicalAction>
+     <PharmacologicalAction>
+      <DescriptorReferredTo>
+       <DescriptorUI>D009153</DescriptorUI>
+        <DescriptorName>
+         <String>Mutagens</String>
+        </DescriptorName>
+      </DescriptorReferredTo>
+     </PharmacologicalAction>
+    </PharmacologicalActionList>
+  <SourceList>
+   <Source>Toxicol Eur Res 1981;3(3):131</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0099583</ConceptUI>
+    <ConceptName>
+     <String>1,3-butadiene</String>
+    </ConceptName>
+    <RegistryNumber>JSD5FGP5VD</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>106-99-0 (1,3-butadiene)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T129587</TermUI>
+      <String>1,3-butadiene</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2013)</ThesaurusID>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T129586</TermUI>
+      <String>divinyl</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2013)</ThesaurusID>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T839019</TermUI>
+      <String>butadiene</String>
+      <DateCreated>
+       <Year>2013</Year>
+       <Month>03</Month>
+       <Day>22</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2014)</ThesaurusID>
+       <ThesaurusID>NLM (2014)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C009879</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>estane plastic</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1975</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>02</Month>
+   <Day>06</Day>
+  </DateRevised>
+  <Note>estane is urethane rubber
+  </Note>
+  <Frequency>8</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011140</DescriptorUI>
+     <DescriptorName>
+      <String>Polyurethanes</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Obstet Gynecol 45(3):287;1975</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0054951</ConceptUI>
+    <ConceptName>
+     <String>estane plastic</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0054951</Concept1UI>
+     <Concept2UI>M0054950</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T084954</TermUI>
+      <String>estane plastic</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0054950</ConceptUI>
+    <ConceptName>
+     <String>Estane 5714 F1</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0054951</Concept1UI>
+     <Concept2UI>M0054950</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T084953</TermUI>
+      <String>Estane 5714 F1</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008765</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>paracoccidioidin</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1993</Year>
+   <Month>02</Month>
+   <Day>10</Day>
+  </DateRevised>
+  <Frequency>35</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*ANTIGENS, FUNGAL (74-79)</PreviousIndexing>
+   <PreviousIndexing>*COCCIDIOIDIN (74-92)</PreviousIndexing>
+   <PreviousIndexing>PARACOCCIDIOIDES (74-79)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D005656</DescriptorUI>
+     <DescriptorName>
+      <String>Fungal Proteins</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Am J Trop Med Hyg 23(1):87;1974</Source>
+   <Source>Sabouraudia 16(2):93;1978</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052899</ConceptUI>
+    <ConceptName>
+     <String>paracoccidioidin</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082902</TermUI>
+      <String>paracoccidioidin</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C419503</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>plutonium hydroxide</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>2001</Year>
+   <Month>02</Month>
+   <Day>06</Day>
+  </DateCreated>
+  <Frequency>1</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011005</DescriptorUI>
+     <DescriptorName>
+      <String>Plutonium</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Health Phys. 2001 Feb;80(2) :164-9</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0378031</ConceptUI>
+    <ConceptName>
+     <String>plutonium hydroxide</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T435350</TermUI>
+      <String>plutonium hydroxide</String>
+      <DateCreated>
+       <Year>2001</Year>
+       <Month>02</Month>
+       <Day>06</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2001)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T435352</TermUI>
+      <String>(239)Pu-hydroxide</String>
+      <DateCreated>
+       <Year>2001</Year>
+       <Month>02</Month>
+       <Day>06</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2001)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T435351</TermUI>
+      <String>(239)plutonium hydroxide</String>
+      <DateCreated>
+       <Year>2001</Year>
+       <Month>02</Month>
+       <Day>06</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2001)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C015531</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>tetrafluoroethylene</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1978</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2012</Year>
+   <Month>11</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Note>RN given refers to parent cpd; structure
+  </Note>
+  <Frequency>91</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D005466</DescriptorUI>
+     <DescriptorName>
+      <String>Fluorocarbons</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>IARC Sci Publ 19:285;1979</Source>
+   <Source>Stomatol DDR 27(8):490;1977</Source>
+   <Source>Yakugaku Zasshi 1979;99(5):521</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0064874</ConceptUI>
+    <ConceptName>
+     <String>tetrafluoroethylene</String>
+    </ConceptName>
+    <CASN1Name>tetrafluoroethene</CASN1Name>
+    <RegistryNumber>OMW63Z518S</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>116-14-3 (tetrafluoroethylene)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>41410-67-7 (ion(1+))</RelatedRegistryNumber>
+     <RelatedRegistryNumber>65338-13-8 (ion(1-))</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0064874</Concept1UI>
+     <Concept2UI>M0312875</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0064874</Concept1UI>
+     <Concept2UI>M0312874</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T094877</TermUI>
+      <String>tetrafluoroethylene</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2013)</ThesaurusID>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T094876</TermUI>
+      <String>tetrafluoroethene</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0312875</ConceptUI>
+    <ConceptName>
+     <String>tetrafluoroethylene, ion(1-)</String>
+    </ConceptName>
+    <RegistryNumber>65338-13-8</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0064874</Concept1UI>
+     <Concept2UI>M0312875</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T342875</TermUI>
+      <String>tetrafluoroethylene, ion(1-)</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0312874</ConceptUI>
+    <ConceptName>
+     <String>tetrafluoroethylene, ion(1+)</String>
+    </ConceptName>
+    <RegistryNumber>41410-67-7</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0064874</Concept1UI>
+     <Concept2UI>M0312874</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T342874</TermUI>
+      <String>tetrafluoroethylene, ion(1+)</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C084722</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3,6-dimethyl-2,5-diaziridinylhydroquinone</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1994</Year>
+   <Month>01</Month>
+   <Day>07</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>02</Month>
+   <Day>06</Day>
+  </DateRevised>
+  <Note>hydroquinone form of the aziridinylbenzoquinone MeDZQ
+  </Note>
+  <Frequency>1</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D001388</DescriptorUI>
+     <DescriptorName>
+      <String>Aziridines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D006873</DescriptorUI>
+     <DescriptorName>
+      <String>Hydroquinones</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Biochemistry 1993 Nov 30;32(47):12857-63</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0225024</ConceptUI>
+    <ConceptName>
+     <String>3,6-dimethyl-2,5-diaziridinylhydroquinone</String>
+    </ConceptName>
+    <RegistryNumber>152923-07-4</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T255029</TermUI>
+      <String>3,6-dimethyl-2,5-diaziridinylhydroquinone</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1994)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T255028</TermUI>
+      <String>MeDZHQ</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1994)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T255027</TermUI>
+      <String>3,6-dimethyl-2,5-diaziridinyl-hydroquinone</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1994)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C004659</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>chlorobenzilate</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1969</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2015</Year>
+   <Month>08</Month>
+   <Day>18</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>16</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D001561</DescriptorUI>
+     <DescriptorName>
+      <String>Benzilates</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Clin Electroencephalogr 9(4):170;1978</Source>
+   <Source>Digestion 16(4):308;1978</Source>
+   <Source>J Agr Food Chem 24(6):1217;1976</Source>
+   <Source>J Agric Food Chem 1979;27(6):1141</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0045793</ConceptUI>
+    <ConceptName>
+     <String>chlorobenzilate</String>
+    </ConceptName>
+    <CASN1Name>ethyl 4,4'-dichlorobenzilate</CASN1Name>
+    <RegistryNumber>H850P004CZ</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>510-15-6 (chlorobenzilate)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T075796</TermUI>
+      <String>chlorobenzilate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>INN (19XX)</ThesaurusID>
+       <ThesaurusID>NLM (1969)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008784</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>pentafluorobenzylimine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>09</Month>
+   <Day>14</Day>
+  </DateRevised>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>IMINES (74-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D005464</DescriptorUI>
+     <DescriptorName>
+      <String>Fluorobenzenes</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Chromatogr Sci 12(7):411;1974</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052947</ConceptUI>
+    <ConceptName>
+     <String>pentafluorobenzylimine</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082950</TermUI>
+      <String>pentafluorobenzylimine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C037554</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>antimony trioxide</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1983</Year>
+   <Month>05</Month>
+   <Day>05</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2012</Year>
+   <Month>11</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Frequency>48</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D000965</DescriptorUI>
+     <DescriptorName>
+      <String>Antimony</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Int Arch Occup Environ Health 1983;51(3):199</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0113565</ConceptUI>
+    <ConceptName>
+     <String>antimony trioxide</String>
+    </ConceptName>
+    <RegistryNumber>P217481X5E</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>1309-64-4 (antimony trioxide)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T143569</TermUI>
+      <String>antimony trioxide</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2013)</ThesaurusID>
+       <ThesaurusID>NLM (1983)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C028246</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>oxazepam acetate</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1981</Year>
+   <Month>03</Month>
+   <Day>05</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2016</Year>
+   <Month>08</Month>
+   <Day>18</Day>
+  </DateRevised>
+  <Note>RN given refers to cpd without isomeric designation
+  </Note>
+  <Frequency>7</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D010076</DescriptorUI>
+     <DescriptorName>
+      <String>Oxazepam</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Biochem Biophys Res Commun 1980;97(1):1</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0091091</ConceptUI>
+    <ConceptName>
+     <String>oxazepam acetate</String>
+    </ConceptName>
+    <RegistryNumber>611V4315UA</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>1824-74-4 (oxazepam acetate)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>68374-72-1 ((+-)-isomer)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>68399-22-4 ((R)-(-)-isomer)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>68399-23-5 ((S)-(+)-isomer)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>72216-21-8 (2-one-2-(14)C-labeled cpd)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0091091</Concept1UI>
+     <Concept2UI>M0317680</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0091091</Concept1UI>
+     <Concept2UI>M0317679</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0091091</Concept1UI>
+     <Concept2UI>M0317677</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0091091</Concept1UI>
+     <Concept2UI>M0317678</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T121094</TermUI>
+      <String>oxazepam acetate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>INN (19XX)</ThesaurusID>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T121093</TermUI>
+      <String>rac-OXA</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T121091</TermUI>
+      <String>oxazepam 3-acetate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T121092</TermUI>
+      <String>oxazepam-3-acetate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0317680</ConceptUI>
+    <ConceptName>
+     <String>oxazepam acetate, 2-one-2-(14)C-labeled cpd</String>
+    </ConceptName>
+    <RegistryNumber>72216-21-8</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0091091</Concept1UI>
+     <Concept2UI>M0317680</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T347680</TermUI>
+      <String>oxazepam acetate, 2-one-2-(14)C-labeled cpd</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0317679</ConceptUI>
+    <ConceptName>
+     <String>oxazepam acetate, (S)-(+)-isomer</String>
+    </ConceptName>
+    <RegistryNumber>68399-23-5</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0091091</Concept1UI>
+     <Concept2UI>M0317679</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T347679</TermUI>
+      <String>oxazepam acetate, (S)-(+)-isomer</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0317677</ConceptUI>
+    <ConceptName>
+     <String>oxazepam acetate, (+,-)-isomer</String>
+    </ConceptName>
+    <RegistryNumber>68374-72-1</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0091091</Concept1UI>
+     <Concept2UI>M0317677</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T347677</TermUI>
+      <String>oxazepam acetate, (+,-)-isomer</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0317678</ConceptUI>
+    <ConceptName>
+     <String>oxazepam acetate, (R)-(-)-isomer</String>
+    </ConceptName>
+    <RegistryNumber>68399-22-4</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0091091</Concept1UI>
+     <Concept2UI>M0317678</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T347678</TermUI>
+      <String>oxazepam acetate, (R)-(-)-isomer</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1981)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008786</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3,5,5,O-3',5'-pentamethyl-2'-deoxydihydrouridine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1990</Year>
+   <Month>08</Month>
+   <Day>22</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*DEOXYURIDINE (74-75)</PreviousIndexing>
+   <PreviousIndexing>METHYL ETHERS (74-75)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D003857</DescriptorUI>
+     <DescriptorName>
+      <String>Deoxyuridine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Biochim Biophys Acta 331(2):147;1973</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052954</ConceptUI>
+    <ConceptName>
+     <String>3,5,5,O-3',5'-pentamethyl-2'-deoxydihydrouridine</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0052954</Concept1UI>
+     <Concept2UI>M0052953</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082957</TermUI>
+      <String>3,5,5,O-3',5'-pentamethyl-2'-deoxydihydrouridine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0052953</ConceptUI>
+    <ConceptName>
+     <String>2'-deoxy-3,5,5,O-3',5'-pentamethyldihydrouridine</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0052954</Concept1UI>
+     <Concept2UI>M0052953</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T082956</TermUI>
+      <String>2'-deoxy-3,5,5,O-3',5'-pentamethyldihydrouridine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008796</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>S-pentyl-L-cysteine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1975</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*CYSTEINE (74-75)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D003545</DescriptorUI>
+     <DescriptorName>
+      <String>Cysteine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Xenobiotica 3(4):207;1973</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052966</ConceptUI>
+    <ConceptName>
+     <String>S-pentyl-L-cysteine</String>
+    </ConceptName>
+    <RegistryNumber>4080-25-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082969</TermUI>
+      <String>S-pentyl-L-cysteine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008801</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>peptide PV</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010456</DescriptorUI>
+     <DescriptorName>
+      <String>Peptides, Cyclic</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Gen Physiol 63(4):492;1974</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052971</ConceptUI>
+    <ConceptName>
+     <String>peptide PV</String>
+    </ConceptName>
+    <CASN1Name>Cyclic(D-prolyl-D-valyl-L-prolyl-L-valyl-D-prolyl-D-valyl-L-prolyl-L-valyl-D-prolyl-D-valyl-L-prolyl-L-valyl)</CASN1Name>
+    <RegistryNumber>38249-87-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082974</TermUI>
+      <String>peptide PV</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008878</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>phosphatidylkojibiosyl diglyceride</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1975</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>02</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>1</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*PHOSPHOLIPIDS (75-76)</PreviousIndexing>
+   <PreviousIndexing>DIGLYCERIDES (75-76)</PreviousIndexing>
+   <PreviousIndexing>DISACCHARIDES (75-76)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D006017</DescriptorUI>
+     <DescriptorName>
+      <String>Glycolipids</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010715</DescriptorUI>
+     <DescriptorName>
+      <String>Phosphatidylglycerols</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Biol Chem 250(2):702;1975</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0053107</ConceptUI>
+    <ConceptName>
+     <String>phosphatidylkojibiosyl diglyceride</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T083110</TermUI>
+      <String>phosphatidylkojibiosyl diglyceride</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T083109</TermUI>
+      <String>phosphatidylkojibiosyl diacylglycerol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008826</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>phenacid</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1972</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>01</Month>
+   <Day>12</Day>
+  </DateRevised>
+  <Note>RN given refers to parent cpd; structure
+  </Note>
+  <Frequency>17</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>PHENYLACETATES (72-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D009588</DescriptorUI>
+     <DescriptorName>
+      <String>Nitrogen Mustard Compounds</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Biofizika 24(2):230;1979</Source>
+   <Source>Steroids 19(6):771;1972</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0053015</ConceptUI>
+    <ConceptName>
+     <String>phenacid</String>
+    </ConceptName>
+    <RegistryNumber>10477-72-2</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>40068-28-8 (Na salt)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0053015</Concept1UI>
+     <Concept2UI>M0310481</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T083018</TermUI>
+      <String>phenacid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1972)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T083017</TermUI>
+      <String>phenylacetic mustard</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1972)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T083016</TermUI>
+      <String>p-(N,N-bis(2-chloroethyl)amino)phenylacetic acid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1972)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T083014</TermUI>
+      <String>4-(N,N-bis(2-chloroethyl)amino)phenylacetic acid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1972)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T083015</TermUI>
+      <String>chlorphenacyl</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1972)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0310481</ConceptUI>
+    <ConceptName>
+     <String>phenacid, sodium salt</String>
+    </ConceptName>
+    <RegistryNumber>40068-28-8</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0053015</Concept1UI>
+     <Concept2UI>M0310481</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T340481</TermUI>
+      <String>phenacid, sodium salt</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1972)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008814</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>peroben</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1975</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>08</Month>
+   <Day>02</Day>
+  </DateRevised>
+  <Note>hypnosedative combination of diphenhydramine &amp; pyrithyldione
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D004155</DescriptorUI>
+     <DescriptorName>
+      <String>Diphenhydramine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D004338</DescriptorUI>
+     <DescriptorName>
+      <String>Drug Combinations</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011728</DescriptorUI>
+     <DescriptorName>
+      <String>Pyridones</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Dermatologica 158(6):417;1979</Source>
+   <Source>Praxis 63(6):157;1974</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052994</ConceptUI>
+    <ConceptName>
+     <String>peroben</String>
+    </ConceptName>
+    <CASN1Name>2,4(1H,3H)-Pyridinedione, 3,3-diethyl-, mixt. with 2-(diphenylmethoxy)-N,N-dimethylethanamine</CASN1Name>
+    <RegistryNumber>78371-63-8</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082997</TermUI>
+      <String>peroben</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C008816</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>4-peroxycyclophosphamide</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1974</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>09</Month>
+   <Day>07</Day>
+  </DateRevised>
+  <Frequency>1</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*CYCLOPHOSPHAMIDE (74-75)</PreviousIndexing>
+   <PreviousIndexing>PEROXIDES (74-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D003520</DescriptorUI>
+     <DescriptorName>
+      <String>Cyclophosphamide</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Am Chem Soc 96(12):4014;1974</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0052996</ConceptUI>
+    <ConceptName>
+     <String>4-peroxycyclophosphamide</String>
+    </ConceptName>
+    <RegistryNumber>51274-71-6</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T082999</TermUI>
+      <String>4-peroxycyclophosphamide</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1974)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C054080</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>lipid-associated sialic acid</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1987</Year>
+   <Month>12</Month>
+   <Day>14</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>04</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Note>elevated in patients with metastatic spread of laryngeal cancer; plasma levels of LASA-P may be correlated to alteration of cancer cells' surface membranes and thus may serve as a useful marker for malignant melanoma
+  </Note>
+  <Frequency>67</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*SIALIC ACIDS (87-96)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D008055</DescriptorUI>
+     <DescriptorName>
+      <String>Lipids</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D019158</DescriptorUI>
+     <DescriptorName>
+      <String>N-Acetylneuraminic Acid</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D014408</DescriptorUI>
+     <DescriptorName>
+      <String>Biomarkers, Tumor</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Clin Otolaryngol 1987;12(4):303</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0152917</ConceptUI>
+    <ConceptName>
+     <String>lipid-associated sialic acid</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T182922</TermUI>
+      <String>lipid-associated sialic acid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1987)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T182921</TermUI>
+      <String>LASA-P</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1987)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T182920</TermUI>
+      <String>LASA</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1987)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C103995</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>plaunotol M-6</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1997</Year>
+   <Month>02</Month>
+   <Day>21</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>04</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Note>RN given for (E,Z,E)-isomer; structure in first source
+  </Note>
+  <Frequency>2</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D005231</DescriptorUI>
+     <DescriptorName>
+      <String>Fatty Acids, Unsaturated</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Antimicrob Chemother 1996 Sep;38(3):387-97</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0271766</ConceptUI>
+    <ConceptName>
+     <String>plaunotol M-6</String>
+    </ConceptName>
+    <RegistryNumber>65811-39-4</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>65811-42-9 ((Z,E,E)-isomer)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0271766</Concept1UI>
+     <Concept2UI>M0327738</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T301771</TermUI>
+      <String>plaunotol M-6</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1997)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0327738</ConceptUI>
+    <ConceptName>
+     <String>plaunotol M-6, (Z,E,E)-isomer</String>
+    </ConceptName>
+    <RegistryNumber>65811-42-9</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0271766</Concept1UI>
+     <Concept2UI>M0327738</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T357738</TermUI>
+      <String>plaunotol M-6, (Z,E,E)-isomer</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1997)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C069989</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>serine containing aminolipid</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1991</Year>
+   <Month>08</Month>
+   <Day>21</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>04</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Note>analog of ornithine containing aminolipid; rarely present in bacteria; protects mice form lethal endotoxemia
+  </Note>
+  <Frequency>6</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D008055</DescriptorUI>
+     <DescriptorName>
+      <String>Lipids</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D012694</DescriptorUI>
+     <DescriptorName>
+      <String>Serine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Infect Immun 1991;59(8):2560</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0190832</ConceptUI>
+    <ConceptName>
+     <String>serine containing aminolipid</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T220837</TermUI>
+      <String>serine containing aminolipid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1991)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T220836</TermUI>
+      <String>serine-containing lipid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1991)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T220835</TermUI>
+      <String>Ser-L</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1991)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012409</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>lonetil M3</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2009</Year>
+   <Month>11</Month>
+   <Day>12</Day>
+  </DateRevised>
+  <Note>Russian Drug; structure
+  </Note>
+  <Frequency>10</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D008702</DescriptorUI>
+     <DescriptorName>
+      <String>Methaqualone</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Act Nerv Super (Praha) 18(3):198;1976</Source>
+   <Source>Eksp Med Morfol 15(2):79;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059417</ConceptUI>
+    <ConceptName>
+     <String>lonetil M3</String>
+    </ConceptName>
+    <RegistryNumber>1897-96-7</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0059417</Concept1UI>
+     <Concept2UI>M0059415</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0059417</Concept1UI>
+     <Concept2UI>M0059416</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089420</TermUI>
+      <String>lonetil M3</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0059415</ConceptUI>
+    <ConceptName>
+     <String>2-methyl-3(4-ethoxy)phenyl-4-quinazolone</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0059417</Concept1UI>
+     <Concept2UI>M0059415</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T089418</TermUI>
+      <String>2-methyl-3(4-ethoxy)phenyl-4-quinazolone</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0059416</ConceptUI>
+    <ConceptName>
+     <String>lonetil</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0059417</Concept1UI>
+     <Concept2UI>M0059416</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T089419</TermUI>
+      <String>lonetil</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012411</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>lysometra</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>07</Month>
+   <Day>01</Day>
+  </DateRevised>
+  <Note>polypeptide preparation; low MW polypeptides obtained from hydrolysis of animal organs
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010455</DescriptorUI>
+     <DescriptorName>
+      <String>Peptides</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Curr Med Res Opin 4(2):151;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059425</ConceptUI>
+    <ConceptName>
+     <String>lysometra</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089428</TermUI>
+      <String>lysometra</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012413</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>mastodynon</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>07</Month>
+   <Day>06</Day>
+  </DateRevised>
+  <Note>plant extract used therapeutically in breast diseases; mastodynon composition: 100 g Agnus castus D1, 20 g Caulophyllum thalictroides D4, 10 g Cyclamen D4, 10 g Ignatia D6, 10 g Iris D2, 20 g Lillum tigrinum D3, 10 g Lupulinum D8, 10 g Tinctura Condurango, 10 g Hersteller: Bionorica KG. 85 Nurnberg 1
+  </Note>
+  <Frequency>13</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010936</DescriptorUI>
+     <DescriptorName>
+      <String>Plant Extracts</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Fortschr Med 95(17):1175;1977</Source>
+   <Source>Med Welt 27(12):591;1976</Source>
+   <Source>ZFA (Stuttgart) 1979;55(22):1239</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059426</ConceptUI>
+    <ConceptName>
+     <String>mastodynon</String>
+    </ConceptName>
+    <CASN1Name>Mastodynon</CASN1Name>
+    <RegistryNumber>78200-25-6</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089429</TermUI>
+      <String>mastodynon</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012421</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3-methoxy-abeo-estrone</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1983</Year>
+   <Month>10</Month>
+   <Day>07</Day>
+  </DateRevised>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>HOMOSTEROIDS (76-83)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D004970</DescriptorUI>
+     <DescriptorName>
+      <String>Estrone</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Steroids 27(2):261;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059440</ConceptUI>
+    <ConceptName>
+     <String>3-methoxy-abeo-estrone</String>
+    </ConceptName>
+    <CASN1Name>3-methoxy-9(10-19)abeo-1,3,5(10)-estratrien- 17-one</CASN1Name>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089443</TermUI>
+      <String>3-methoxy-abeo-estrone</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012424</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3 beta-methoxy-dinor-5-cholen-22-ol</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Note>metabolite of cholesteryl methyl ether; structure
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D002770</DescriptorUI>
+     <DescriptorName>
+      <String>Cholenes</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Acta Microbiol 22(4):447;1975</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059443</ConceptUI>
+    <ConceptName>
+     <String>3 beta-methoxy-dinor-5-cholen-22-ol</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089446</TermUI>
+      <String>3 beta-methoxy-dinor-5-cholen-22-ol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012428</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>20-methylcholesterol</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D002784</DescriptorUI>
+     <DescriptorName>
+      <String>Cholesterol</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Org Chem 41(13):2288;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059449</ConceptUI>
+    <ConceptName>
+     <String>20-methylcholesterol</String>
+    </ConceptName>
+    <CASN1Name>Cholest-5-en-3-ol, 20-methyl-, (3beta)-</CASN1Name>
+    <RegistryNumber>58958-29-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089452</TermUI>
+      <String>20-methylcholesterol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012431</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>2-O-methyl-D-glucuronic acid</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>07</Month>
+   <Day>12</Day>
+  </DateRevised>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>METHYLGLYCOSIDES (76-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D005965</DescriptorUI>
+     <DescriptorName>
+      <String>Glucuronates</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Biochem J 155(1):181;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059454</ConceptUI>
+    <ConceptName>
+     <String>2-O-methyl-D-glucuronic acid</String>
+    </ConceptName>
+    <CASN1Name>D-Glucuronic acid, 2-O-methyl-</CASN1Name>
+    <RegistryNumber>59894-02-9</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089457</TermUI>
+      <String>2-O-methyl-D-glucuronic acid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012432</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3-methyl-6-hydroxyquinazoline-2,4-dione</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011799</DescriptorUI>
+     <DescriptorName>
+      <String>Quinazolines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>C R Soc Biol (Paris) 169(5):1151;1975</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059455</ConceptUI>
+    <ConceptName>
+     <String>3-methyl-6-hydroxyquinazoline-2,4-dione</String>
+    </ConceptName>
+    <RegistryNumber>17730-75-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089458</TermUI>
+      <String>3-methyl-6-hydroxyquinazoline-2,4-dione</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012433</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>1-methylinosine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1979</Year>
+   <Month>11</Month>
+   <Day>29</Day>
+  </DateRevised>
+  <Frequency>20</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D007288</DescriptorUI>
+     <DescriptorName>
+      <String>Inosine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Cancer 41(5):1685;1978</Source>
+   <Source>Clin Chim Acta 1979;97(2-3):159</Source>
+   <Source>J Am Chem Soc 98(9):2641;1976</Source>
+   <Source>Monogr Hum Genet 10:135;1978</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059456</ConceptUI>
+    <ConceptName>
+     <String>1-methylinosine</String>
+    </ConceptName>
+    <RegistryNumber>2140-73-0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089459</TermUI>
+      <String>1-methylinosine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012441</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>N-methyl-alpha-tocopheramine nitroxide</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1995</Year>
+   <Month>03</Month>
+   <Day>30</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*VITAMIN E (83-95)</PreviousIndexing>
+   <PreviousIndexing>NITROGEN OXIDES (76-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D014810</DescriptorUI>
+     <DescriptorName>
+      <String>Vitamin E</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Lipids 11(4):296;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059462</ConceptUI>
+    <ConceptName>
+     <String>N-methyl-alpha-tocopheramine nitroxide</String>
+    </ConceptName>
+    <CASN1Name>Nitroxide, 3,4-dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)-2H-1-benzopyran-6-yl methyl</CASN1Name>
+    <RegistryNumber>78249-60-2</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089465</TermUI>
+      <String>N-methyl-alpha-tocopheramine nitroxide</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C498281</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>cdc16 protein, S pombe</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>2005</Year>
+   <Month>07</Month>
+   <Day>29</Day>
+  </DateCreated>
+  <Note>required both for maintenance of p34(cdc2) kinase activity &amp; regulation of septum formation
+  </Note>
+  <Frequency>15</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*FUNGAL PROTEINS (1993-1995)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D018797</DescriptorUI>
+     <DescriptorName>
+      <String>Cell Cycle Proteins</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D029702</DescriptorUI>
+     <DescriptorName>
+      <String>Schizosaccharomyces pombe Proteins</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0465925</ConceptUI>
+    <ConceptName>
+     <String>cdc16 protein, S pombe</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T586913</TermUI>
+      <String>cdc16 protein, S pombe</String>
+      <DateCreated>
+       <Year>2004</Year>
+       <Month>05</Month>
+       <Day>17</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2004)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T586915</TermUI>
+      <String>SPAC6F6.08c protein, S pombe</String>
+      <DateCreated>
+       <Year>2004</Year>
+       <Month>05</Month>
+       <Day>17</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2004)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T586914</TermUI>
+      <String>bub2 protein, S pombe</String>
+      <DateCreated>
+       <Year>2004</Year>
+       <Month>05</Month>
+       <Day>17</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2004)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012468</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3-oximino-4-chromanone</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>08</Month>
+   <Day>31</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*OXIMES (76-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D002867</DescriptorUI>
+     <DescriptorName>
+      <String>Chromones</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Pharm Sci 65(3):397;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059507</ConceptUI>
+    <ConceptName>
+     <String>3-oximino-4-chromanone</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089510</TermUI>
+      <String>3-oximino-4-chromanone</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012471</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>oxyglucocycline</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2009</Year>
+   <Month>11</Month>
+   <Day>12</Day>
+  </DateRevised>
+  <Note>carboxamido derivative of oxytetracycline
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D010118</DescriptorUI>
+     <DescriptorName>
+      <String>Oxytetracycline</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Antibiotiki 21(10):933;1976</Source>
+   <Source>Antibiotiki 22(2):172;1977</Source>
+   <Source>Vestn Khir 119(12):53;1977</Source>
+   <Source>Z Eksp Klin Med 15(6):66;1975</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059514</ConceptUI>
+    <ConceptName>
+     <String>oxyglucocycline</String>
+    </ConceptName>
+    <RegistryNumber>11140-93-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089517</TermUI>
+      <String>oxyglucocycline</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012478</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>alpha-(N-1-phenethyl)urea</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1998</Year>
+   <Month>03</Month>
+   <Day>27</Day>
+  </DateRevised>
+  <Note>RN given refers to (+)-isomer
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*PHENYLUREA COMPOUNDS (76-79)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D014508</DescriptorUI>
+     <DescriptorName>
+      <String>Urea</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Science 193(4247):66;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059524</ConceptUI>
+    <ConceptName>
+     <String>alpha-(N-1-phenethyl)urea</String>
+    </ConceptName>
+    <RegistryNumber>16849-91-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089527</TermUI>
+      <String>alpha-(N-1-phenethyl)urea</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C018754</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>(acyl-carrier-protein) phosphodiesterase</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1975</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2002</Year>
+   <Month>01</Month>
+   <Day>10</Day>
+  </DateRevised>
+  <Frequency>8</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>ACYL CARRIER PROTEIN (79-81)</PreviousIndexing>
+   <PreviousIndexing>CARRIER PROTEINS (75-79)</PreviousIndexing>
+   <PreviousIndexing>PANTETHEINE/analogs (79-81)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010727</DescriptorUI>
+     <DescriptorName>
+      <String>Phosphoric Diester Hydrolases</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Arch Biochem Biophys 168(2):490;1975</Source>
+   <Source>Methods Enzymol 62:249;1979</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0070603</ConceptUI>
+    <ConceptName>
+     <String>(acyl-carrier-protein) phosphodiesterase</String>
+    </ConceptName>
+    <RegistryNumber>EC 3.1.4.14</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T100606</TermUI>
+      <String>(acyl-carrier-protein) phosphodiesterase</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T100605</TermUI>
+      <String>holo-(acyl carrier protein) hydrolase</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T100603</TermUI>
+      <String>4'-phosphopantetheine-holofatty acid synthetase hydrolase</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T100602</TermUI>
+      <String>4'-phosphopantetheine hydrolase</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T100604</TermUI>
+      <String>acyl carrier protein phosphodiesterase</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1975)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012483</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>phenylhydrazone</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Frequency>52</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D006835</DescriptorUI>
+     <DescriptorName>
+      <String>Hydrazones</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Folia Microbiol 23(4):304;1978</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059540</ConceptUI>
+    <ConceptName>
+     <String>phenylhydrazone</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089543</TermUI>
+      <String>phenylhydrazone</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012485</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3-phenyl-2-indolinon-1,3-diacetic acid amide</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>08</Month>
+   <Day>02</Day>
+  </DateRevised>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>AMIDES (76-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D007210</DescriptorUI>
+     <DescriptorName>
+      <String>Indoleacetic Acids</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Farm Zh 31(1):29;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059543</ConceptUI>
+    <ConceptName>
+     <String>3-phenyl-2-indolinon-1,3-diacetic acid amide</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089546</TermUI>
+      <String>3-phenyl-2-indolinon-1,3-diacetic acid amide</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012486</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>20-phenyl-5-pregnene-3 beta,20-diol</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1979</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateRevised>
+  <Note>20-aryl analog of 20-hydroxycholesterol; structure
+  </Note>
+  <Frequency>3</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>HYDROXYSTEROIDS (76-79)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011283</DescriptorUI>
+     <DescriptorName>
+      <String>Pregnenes</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Biol Chem 251(3):7336;1976</Source>
+   <Source>J Biol Chem 251(7):2087;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059544</ConceptUI>
+    <ConceptName>
+     <String>20-phenyl-5-pregnene-3 beta,20-diol</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089547</TermUI>
+      <String>20-phenyl-5-pregnene-3 beta,20-diol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012489</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>phosphorpyridoxyltrifluoroethylamine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D011732</DescriptorUI>
+     <DescriptorName>
+      <String>Pyridoxal Phosphate</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Biol Chem 251(7):1853;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059551</ConceptUI>
+    <ConceptName>
+     <String>phosphorpyridoxyltrifluoroethylamine</String>
+    </ConceptName>
+    <CASN1Name>3-Pyridinemethanol, 5-hydroxy-6-methyl-4-(((2,2,2-trifluoroethyl)amino)methyl)-, alpha-(dihydrogen phosphate)</CASN1Name>
+    <RegistryNumber>59087-16-0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089554</TermUI>
+      <String>phosphorpyridoxyltrifluoroethylamine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012492</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>phthalonic acid</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Note>structure
+  </Note>
+  <Frequency>3</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010795</DescriptorUI>
+     <DescriptorName>
+      <String>Phthalic Acids</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Biochim Biophys Acta 430(1):53;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059554</ConceptUI>
+    <ConceptName>
+     <String>phthalonic acid</String>
+    </ConceptName>
+    <CASN1Name>2-carboxy-alpha-oxobenzeneacetic acid</CASN1Name>
+    <RegistryNumber>528-46-1</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089557</TermUI>
+      <String>phthalonic acid</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C018777</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>N-phenylacetoaminomethylene-DL-p-nitrophenylalanine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1979</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2002</Year>
+   <Month>01</Month>
+   <Day>10</Day>
+  </DateRevised>
+  <Note>structure
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D010649</DescriptorUI>
+     <DescriptorName>
+      <String>Phenylalanine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>JNCI 62(3):565;1979</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0070679</ConceptUI>
+    <ConceptName>
+     <String>N-phenylacetoaminomethylene-DL-p-nitrophenylalanine</String>
+    </ConceptName>
+    <CASN1Name>DL-Phenylalanine, 4-nitro-N-(((phenylacetyl)amino)methyl)-</CASN1Name>
+    <RegistryNumber>70172-42-8</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0070679</Concept1UI>
+     <Concept2UI>M0070680</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T100682</TermUI>
+      <String>N-phenylacetoaminomethylene-DL-p-nitrophenylalanine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1979)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0070680</ConceptUI>
+    <ConceptName>
+     <String>A-101</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0070679</Concept1UI>
+     <Concept2UI>M0070680</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T100683</TermUI>
+      <String>A-101</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1979)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T100681</TermUI>
+      <String>A 101</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1979)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012507</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>5-pregnen-3 beta-ol</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1990</Year>
+   <Month>04</Month>
+   <Day>09</Day>
+  </DateRevised>
+  <Note>C-20 deoxy-analog
+  </Note>
+  <Frequency>5</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D011284</DescriptorUI>
+     <DescriptorName>
+      <String>Pregnenolone</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Biol Chem 251(11):3320;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059572</ConceptUI>
+    <ConceptName>
+     <String>5-pregnen-3 beta-ol</String>
+    </ConceptName>
+    <CASN1Name>(3 beta)-pregn-5-en-3-ol</CASN1Name>
+    <RegistryNumber>2862-58-0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089575</TermUI>
+      <String>5-pregnen-3 beta-ol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C047246</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>temozolomide</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1985</Year>
+   <Month>12</Month>
+   <Day>27</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2016</Year>
+   <Month>11</Month>
+   <Day>29</Day>
+  </DateRevised>
+  <Note>structure given in first source
+  </Note>
+  <Frequency>3579</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*IMIDAZOLES (85-88)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D003606</DescriptorUI>
+     <DescriptorName>
+      <String>Dacarbazine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+    <PharmacologicalActionList>
+     <PharmacologicalAction>
+      <DescriptorReferredTo>
+       <DescriptorUI>D018906</DescriptorUI>
+        <DescriptorName>
+         <String>Antineoplastic Agents, Alkylating</String>
+        </DescriptorName>
+      </DescriptorReferredTo>
+     </PharmacologicalAction>
+    </PharmacologicalActionList>
+  <SourceList>
+   <Source>Br J Cancer 1985;52(5):789</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0136562</ConceptUI>
+    <ConceptName>
+     <String>temozolomide</String>
+    </ConceptName>
+    <RegistryNumber>YF1K15M17Y</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>85622-93-1 (temozolomide)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0136557</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0136559</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="REL">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M000624140</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0543870</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0136555</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0414529</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T166567</TermUI>
+      <String>temozolomide</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>INN (19XX)</ThesaurusID>
+       <ThesaurusID>USAN (1985)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T166559</TermUI>
+      <String>8-carbamoyl-3-methylimidazo(5,1-d)-1,2,3,5-tetrazin-4(3H)-one</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1985)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T166566</TermUI>
+      <String>methazolastone</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>BAN (1985)</ThesaurusID>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0136557</ConceptUI>
+    <ConceptName>
+     <String>M&amp;B 39831</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0136557</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T166562</TermUI>
+      <String>M&amp;B 39831</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>NLM (1985)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T166563</TermUI>
+      <String>M&amp;B-39831</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1985)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0136559</ConceptUI>
+    <ConceptName>
+     <String>NSC 362856</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0136559</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T166564</TermUI>
+      <String>NSC 362856</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1985)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T166565</TermUI>
+      <String>NSC-362856</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>NLM (1985)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M000624140</ConceptUI>
+    <ConceptName>
+     <String>Temodal</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="REL">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M000624140</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="TRD"  RecordPreferredTermYN="N">
+      <TermUI>T328931</TermUI>
+      <String>Temodal</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>AU</ThesaurusID>
+       <ThesaurusID>CA</ThesaurusID>
+       <ThesaurusID>DE</ThesaurusID>
+       <ThesaurusID>ES</ThesaurusID>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>FR</ThesaurusID>
+       <ThesaurusID>NL</ThesaurusID>
+       <ThesaurusID>UK</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0543870</ConceptUI>
+    <ConceptName>
+     <String>TMZ-Bioshuttle</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0543870</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T766245</TermUI>
+      <String>TMZ-Bioshuttle</String>
+      <DateCreated>
+       <Year>2010</Year>
+       <Month>02</Month>
+       <Day>24</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2010)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0136555</ConceptUI>
+    <ConceptName>
+     <String>CCRG 81045</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0136555</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T166560</TermUI>
+      <String>CCRG 81045</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>NLM (1985)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T166561</TermUI>
+      <String>CCRG-81045</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>NLM (1985)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0414529</ConceptUI>
+    <ConceptName>
+     <String>Temodar</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0136562</Concept1UI>
+     <Concept2UI>M0414529</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="TRD"  RecordPreferredTermYN="N">
+      <TermUI>T482100</TermUI>
+      <String>Temodar</String>
+      <DateCreated>
+       <Year>2002</Year>
+       <Month>02</Month>
+       <Day>15</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>US</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C035986</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>6-nitrochrysene</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1982</Year>
+   <Month>12</Month>
+   <Day>30</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2016</Year>
+   <Month>07</Month>
+   <Day>11</Day>
+  </DateRevised>
+  <Note>RN given refers to cpd with locant for nitro group in position 6
+  </Note>
+  <Frequency>63</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D002911</DescriptorUI>
+     <DescriptorName>
+      <String>Chrysenes</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Cancer Lett 1982;16(3):333</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0109904</ConceptUI>
+    <ConceptName>
+     <String>6-nitrochrysene</String>
+    </ConceptName>
+    <RegistryNumber>82ZK83O33Y</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>63021-85-2 (cpd with unspecified locant for nitro group)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>7496-02-8 (6-nitrochrysene)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T139908</TermUI>
+      <String>6-nitrochrysene</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2015)</ThesaurusID>
+       <ThesaurusID>INN (19XX)</ThesaurusID>
+       <ThesaurusID>NLM (1982)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012510</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>prospan</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Note>extract from Hedera helix with bronchosecretolytic &amp; antitussive qualities
+  </Note>
+  <Frequency>3</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010936</DescriptorUI>
+     <DescriptorName>
+      <String>Plant Extracts</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Z Allgemeinmed 52(10):546;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059580</ConceptUI>
+    <ConceptName>
+     <String>prospan</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089583</TermUI>
+      <String>prospan</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C069172</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>2,3-bis(palmitoyloxy)-2-propyl-1-palmitoylcysteine</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1991</Year>
+   <Month>07</Month>
+   <Day>09</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>04</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Note>intermediate for immunogen preparation
+  </Note>
+  <Frequency>46</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D003545</DescriptorUI>
+     <DescriptorName>
+      <String>Cysteine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D008074</DescriptorUI>
+     <DescriptorName>
+      <String>Lipoproteins</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Int J Pept Protein Res 1991;37(1):46</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0188867</ConceptUI>
+    <ConceptName>
+     <String>2,3-bis(palmitoyloxy)-2-propyl-1-palmitoylcysteine</String>
+    </ConceptName>
+    <RegistryNumber>87420-41-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T218872</TermUI>
+      <String>2,3-bis(palmitoyloxy)-2-propyl-1-palmitoylcysteine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1991)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T218871</TermUI>
+      <String>Pam3Cys-OH</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1991)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T218870</TermUI>
+      <String>N-palmitoyl-2,3-bis(palmitoyloxy)-2-propylcysteine</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1991)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C016601</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>afimoxifene</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1978</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2016</Year>
+   <Month>10</Month>
+   <Day>12</Day>
+  </DateRevised>
+  <Note>an antiestrogen; RN given refers to cpd without isomeric designation
+  </Note>
+  <Frequency>1070</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D013629</DescriptorUI>
+     <DescriptorName>
+      <String>Tamoxifen</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+    <QualifierReferredTo>
+     <QualifierUI>*Q000031</QualifierUI>
+     <QualifierName>
+      <String>analogs &amp; derivatives</String>
+     </QualifierName>
+    </QualifierReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D011960</DescriptorUI>
+     <DescriptorName>
+      <String>Receptors, Estrogen</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+    <QualifierReferredTo>
+    <QualifierUI>Q000819</QualifierUI>
+     <QualifierName>
+      <String>agonists</String>
+      </QualifierName>
+     </QualifierReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+    <PharmacologicalActionList>
+     <PharmacologicalAction>
+      <DescriptorReferredTo>
+       <DescriptorUI>D000970</DescriptorUI>
+        <DescriptorName>
+         <String>Antineoplastic Agents</String>
+        </DescriptorName>
+      </DescriptorReferredTo>
+     </PharmacologicalAction>
+     <PharmacologicalAction>
+      <DescriptorReferredTo>
+       <DescriptorUI>D004965</DescriptorUI>
+        <DescriptorName>
+         <String>Estrogen Antagonists</String>
+        </DescriptorName>
+      </DescriptorReferredTo>
+     </PharmacologicalAction>
+     <PharmacologicalAction>
+      <DescriptorReferredTo>
+       <DescriptorUI>D020845</DescriptorUI>
+        <DescriptorName>
+         <String>Selective Estrogen Receptor Modulators</String>
+        </DescriptorName>
+      </DescriptorReferredTo>
+     </PharmacologicalAction>
+    </PharmacologicalActionList>
+  <SourceList>
+   <Source>Adv Exp Med Biol 117:133;1979</Source>
+   <Source>Biochem Biophys Res Commun 1979;91(3):812</Source>
+   <Source>J Endocrinol 76(2):363;1978</Source>
+   <Source>J Endocrinol 78(1):71;1978</Source>
+   <Source>J Steroid Biochem 1979;11(1A):285</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0066724</ConceptUI>
+    <ConceptName>
+     <String>afimoxifene</String>
+    </ConceptName>
+    <CASN1Name>phenol, 4-(1-(4-(2-(dimethylamino)ethoxy)phenyl)-2-phenyl-1-butenyl)-,</CASN1Name>
+    <RegistryNumber>17197F0KYM</RegistryNumber>
+    <RelatedRegistryNumberList>
+     <RelatedRegistryNumber>65213-48-1 ((Z)-isomer)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>68047-06-3 ((E)-isomer)</RelatedRegistryNumber>
+     <RelatedRegistryNumber>68392-35-8 (afimoxifene)</RelatedRegistryNumber>
+    </RelatedRegistryNumberList>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0066724</Concept1UI>
+     <Concept2UI>M0313209</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0066724</Concept1UI>
+     <Concept2UI>M0313208</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0066724</Concept1UI>
+     <Concept2UI>M0066721</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T844689</TermUI>
+      <String>afimoxifene</String>
+      <DateCreated>
+       <Year>2013</Year>
+       <Month>05</Month>
+       <Day>24</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>FDA SRS (2013)</ThesaurusID>
+       <ThesaurusID>INN (19XX)</ThesaurusID>
+       <ThesaurusID>NLM (2013)</ThesaurusID>
+       <ThesaurusID>USAN (19XX)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T000909374</TermUI>
+      <String>4-(1-(4-(2-(dimethylamino)ethoxy)phenyl)-2-phenylbut-1-enyl)phenol</String>
+      <DateCreated>
+       <Year>2016</Year>
+       <Month>10</Month>
+       <Day>12</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2017)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T096721</TermUI>
+      <String>4'-hydroxytamoxifen</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T096722</TermUI>
+      <String>4-hydroxy-tamoxifen</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T096723</TermUI>
+      <String>4-monohydroxytamoxifen</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T853684</TermUI>
+      <String>4OH-tamoxifen</String>
+      <DateCreated>
+       <Year>2014</Year>
+       <Month>01</Month>
+       <Day>16</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2014)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T096726</TermUI>
+      <String>tamoxifen metabolite B</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T096727</TermUI>
+      <String>4-hydroxytamoxifen</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T649069</TermUI>
+      <String>4-OHT hydrotamoxifen</String>
+      <DateCreated>
+       <Year>2005</Year>
+       <Month>08</Month>
+       <Day>21</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2005)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T000909373</TermUI>
+      <String>phenol, 4-(1-(4-(2-(dimethylamino)ethoxy)phenyl)-2-phenyl-1-butenyl)-</String>
+      <DateCreated>
+       <Year>2016</Year>
+       <Month>10</Month>
+       <Day>12</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2017)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T096725</TermUI>
+      <String>para-hydroxytamoxifen</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0313209</ConceptUI>
+    <ConceptName>
+     <String>4-hydroxytamoxifen, (E)-isomer</String>
+    </ConceptName>
+    <RegistryNumber>68047-06-3</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0066724</Concept1UI>
+     <Concept2UI>M0313209</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T343209</TermUI>
+      <String>4-hydroxytamoxifen, (E)-isomer</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0313208</ConceptUI>
+    <ConceptName>
+     <String>4-hydroxytamoxifen, (Z)-isomer</String>
+    </ConceptName>
+    <RegistryNumber>65213-48-1</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0066724</Concept1UI>
+     <Concept2UI>M0313208</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T343208</TermUI>
+      <String>4-hydroxytamoxifen, (Z)-isomer</String>
+      <DateCreated>
+       <Year>1999</Year>
+       <Month>08</Month>
+       <Day>18</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0066721</ConceptUI>
+    <ConceptName>
+     <String>ICI 79280</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0066724</Concept1UI>
+     <Concept2UI>M0066721</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="N">
+      <TermUI>T096724</TermUI>
+      <String>ICI 79280</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1978)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012634</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>AB 74</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2003</Year>
+   <Month>08</Month>
+   <Day>08</Day>
+  </DateRevised>
+  <Note>related to &amp; may be identical with destomycin C
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>AMINOGLYCOSIDES (76-87)</PreviousIndexing>
+   <PreviousIndexing>ANTIBIOTICS (76-87)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D000617</DescriptorUI>
+     <DescriptorName>
+      <String>Aminoglycosides</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Antibiot (Tokyo) 29(5):590;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059807</ConceptUI>
+    <ConceptName>
+     <String>AB 74</String>
+    </ConceptName>
+    <RegistryNumber>59794-19-3</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="LAB"  RecordPreferredTermYN="Y">
+      <TermUI>T089810</TermUI>
+      <String>AB 74</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T089808</TermUI>
+      <String>AB-74</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T089809</TermUI>
+      <String>antibiotic AB 74</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012520</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>D-psicose-6-phosphate</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1983</Year>
+   <Month>08</Month>
+   <Day>16</Day>
+  </DateRevised>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D005636</DescriptorUI>
+     <DescriptorName>
+      <String>Fructosephosphates</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Biol Chem 251(10):2983;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059600</ConceptUI>
+    <ConceptName>
+     <String>D-psicose-6-phosphate</String>
+    </ConceptName>
+    <RegistryNumber>4300-29-2</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089603</TermUI>
+      <String>D-psicose-6-phosphate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C081249</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>tissue factor pathway inhibitor (1-161)</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1993</Year>
+   <Month>06</Month>
+   <Day>16</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>04</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Frequency>8</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D008074</DescriptorUI>
+     <DescriptorName>
+      <String>Lipoproteins</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010446</DescriptorUI>
+     <DescriptorName>
+      <String>Peptide Fragments</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D011994</DescriptorUI>
+     <DescriptorName>
+      <String>Recombinant Proteins</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Haemostasis 1993 Mar;23 Suppl 1:112-7</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0216749</ConceptUI>
+    <ConceptName>
+     <String>tissue factor pathway inhibitor (1-161)</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T246754</TermUI>
+      <String>tissue factor pathway inhibitor (1-161)</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1993)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T246752</TermUI>
+      <String>TFPI (1-161)</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1993)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T246753</TermUI>
+      <String>rTFPI (1-161)</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1993)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C092528</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>S-(2,3-bis-(palmitoyloxy)propyl)-N-palmitoyl-cysteinyl-alanyl-lysine(4)</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1995</Year>
+   <Month>04</Month>
+   <Day>14</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2001</Year>
+   <Month>04</Month>
+   <Day>05</Day>
+  </DateRevised>
+  <Frequency>1</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D008074</DescriptorUI>
+     <DescriptorName>
+      <String>Lipoproteins</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Biol Chem 1995 Mar 11;270(11):6017-21</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0244226</ConceptUI>
+    <ConceptName>
+     <String>S-(2,3-bis-(palmitoyloxy)propyl)-N-palmitoyl-cysteinyl-alanyl-lysine(4)</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0244226</Concept1UI>
+     <Concept2UI>M0244225</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T274231</TermUI>
+      <String>S-(2,3-bis-(palmitoyloxy)propyl)-N-palmitoyl-cysteinyl-alanyl-lysine(4)</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1995)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T274229</TermUI>
+      <String>Pam-Cys-Ala-Lys(4)</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1995)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0244225</ConceptUI>
+    <ConceptName>
+     <String>S-(2,3-bis(palmitoyloxy)-(2R,2S)-propyl)-N-palmytoyl-(R)-Cys-Ala-Lys(4)</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0244226</Concept1UI>
+     <Concept2UI>M0244225</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T274230</TermUI>
+      <String>S-(2,3-bis(palmitoyloxy)-(2R,2S)-propyl)-N-palmytoyl-(R)-Cys-Ala-Lys(4)</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1995)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012528</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>quinaldofur</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1988</Year>
+   <Month>09</Month>
+   <Day>29</Day>
+  </DateRevised>
+  <Note>used in treatment of bovine mastitis; structure
+  </Note>
+  <Frequency>5</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*NITROFURANS (76-82)</PreviousIndexing>
+   <PreviousIndexing>*QUINALDINES (76-79)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D011804</DescriptorUI>
+     <DescriptorName>
+      <String>Quinolines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Tijdschr Diergeneeskd 103(2):122;1978</Source>
+   <Source>Zentralbl Veterinaermed (B) 23(4):301;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059617</ConceptUI>
+    <ConceptName>
+     <String>quinaldofur</String>
+    </ConceptName>
+    <RegistryNumber>57474-29-0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0059617</Concept1UI>
+     <Concept2UI>M0059615</Concept2UI>
+     </ConceptRelation>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0059617</Concept1UI>
+     <Concept2UI>M0059616</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089620</TermUI>
+      <String>quinaldofur</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0059615</ConceptUI>
+    <ConceptName>
+     <String>4-(5'-nitrofuryl)quinaldinic acid N-oxide</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0059617</Concept1UI>
+     <Concept2UI>M0059615</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T089618</TermUI>
+      <String>4-(5'-nitrofuryl)quinaldinic acid N-oxide</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0059616</ConceptUI>
+    <ConceptName>
+     <String>abimasten</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="NRW">
+     <Concept1UI>M0059617</Concept1UI>
+     <Concept2UI>M0059616</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T089619</TermUI>
+      <String>abimasten</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012531</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>resistoflavin</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1979</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateRevised>
+  <Frequency>4</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*FLAVONES (76-79)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D001580</DescriptorUI>
+     <DescriptorName>
+      <String>Benzopyrenes</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Antibiotiki 21(2):105;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059620</ConceptUI>
+    <ConceptName>
+     <String>resistoflavin</String>
+    </ConceptName>
+    <CASN1Name>(-)-3,5,7,11b-tetrahydroxy-1,1,9-trimethyl-2H-benzo(cd)pyrene-2,6,10(1H,11bH)-trione</CASN1Name>
+    <RegistryNumber>29706-96-5</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089623</TermUI>
+      <String>resistoflavin</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012534</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>3-(beta-D-ribofuranosyl)-2,3-dihydro-6H-1,3-oxazine-2,6-dione</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1982</Year>
+   <Month>01</Month>
+   <Day>18</Day>
+  </DateRevised>
+  <Note>pyrimidine nucleoside analog related to uridine; structure
+  </Note>
+  <Frequency>0</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D010078</DescriptorUI>
+     <DescriptorName>
+      <String>Oxazines</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D012263</DescriptorUI>
+     <DescriptorName>
+      <String>Ribonucleosides</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>J Med Chem 19(5):643;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059625</ConceptUI>
+    <ConceptName>
+     <String>3-(beta-D-ribofuranosyl)-2,3-dihydro-6H-1,3-oxazine-2,6-dione</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089628</TermUI>
+      <String>3-(beta-D-ribofuranosyl)-2,3-dihydro-6H-1,3-oxazine-2,6-dione</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012542</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>ruscorectal (combination)</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <Note>combination of ruscogenin &amp; neoruscogenin
+  </Note>
+  <Frequency>1</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D004338</DescriptorUI>
+     <DescriptorName>
+      <String>Drug Combinations</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D013150</DescriptorUI>
+     <DescriptorName>
+      <String>Spirostans</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Munch Med Wochenschr 118(11):339;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059633</ConceptUI>
+    <ConceptName>
+     <String>ruscorectal (combination)</String>
+    </ConceptName>
+    <RegistryNumber>50933-59-0</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089636</TermUI>
+      <String>ruscorectal (combination)</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C113382</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>coat protein, Cowpea aphid-borne mosaic virus</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1998</Year>
+   <Month>07</Month>
+   <Day>31</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>2004</Year>
+   <Month>02</Month>
+   <Day>26</Day>
+  </DateRevised>
+  <Note>from a potyvirus infecting sesame (Sesamum indicum); amino acid sequence in first source
+  </Note>
+  <Frequency>1</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*CAPSID (1998-2003)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D036022</DescriptorUI>
+     <DescriptorName>
+      <String>Capsid Proteins</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D017800</DescriptorUI>
+     <DescriptorName>
+      <String>Potyvirus</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Arch Virol 1997;142(9):1919-27</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0292840</ConceptUI>
+    <ConceptName>
+     <String>coat protein, Cowpea aphid-borne mosaic virus</String>
+    </ConceptName>
+    <RegistryNumber>0</RegistryNumber>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="REL">
+     <Concept1UI>M0292840</Concept1UI>
+     <Concept2UI>M0461464</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T462602</TermUI>
+      <String>coat protein, Cowpea aphid-borne mosaic virus</String>
+      <DateCreated>
+       <Year>2001</Year>
+       <Month>09</Month>
+       <Day>21</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2001)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+   <Concept PreferredConceptYN="N">
+    <ConceptUI>M0461464</ConceptUI>
+    <ConceptName>
+     <String>coat protein, Sesame mosaic potyvirus</String>
+    </ConceptName>
+    <ConceptRelationList>
+     <ConceptRelation RelationName="REL">
+     <Concept1UI>M0292840</Concept1UI>
+     <Concept2UI>M0461464</Concept2UI>
+     </ConceptRelation>
+    </ConceptRelationList>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T574483</TermUI>
+      <String>coat protein, Sesame mosaic potyvirus</String>
+      <DateCreated>
+       <Year>2004</Year>
+       <Month>02</Month>
+       <Day>26</Day>
+      </DateCreated>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (2004)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T322843</TermUI>
+      <String>SeMV coat protein, Sesame mosaic potyvirus</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1998)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+     <Term  ConceptPreferredTermYN="N"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="N">
+      <TermUI>T322845</TermUI>
+      <String>coat protein, sesame potyvirus</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1998)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012549</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>Silufol</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1993</Year>
+   <Month>09</Month>
+   <Day>01</Day>
+  </DateRevised>
+  <Frequency>7</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*SILICONES (76-79)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D012822</DescriptorUI>
+     <DescriptorName>
+      <String>Silicon Dioxide</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <IndexingInformationList>
+   <IndexingInformation>
+     <DescriptorReferredTo>
+    <DescriptorUI>D005782</DescriptorUI>
+     <DescriptorName>
+      <String>Gels</String>
+      </DescriptorName>
+     </DescriptorReferredTo>
+   </IndexingInformation>
+  </IndexingInformationList>
+  <SourceList>
+   <Source>Biokhimiia 44(2):368;1979</Source>
+   <Source>Cesk Farm 25(2):64;1976</Source>
+   <Source>Cesk Farm 25(6):213;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059648</ConceptUI>
+    <ConceptName>
+     <String>Silufol</String>
+    </ConceptName>
+    <CASN1Name>Silufol</CASN1Name>
+    <RegistryNumber>62253-50-3</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089651</TermUI>
+      <String>Silufol</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012560</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>Streptotriad</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1995</Year>
+   <Month>06</Month>
+   <Day>21</Day>
+  </DateRevised>
+  <Note>combination of above used in prevention of diarrhea
+  </Note>
+  <Frequency>2</Frequency>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>D004338</DescriptorUI>
+     <DescriptorName>
+      <String>Drug Combinations</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D013307</DescriptorUI>
+     <DescriptorName>
+      <String>Streptomycin</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D013411</DescriptorUI>
+     <DescriptorName>
+      <String>Sulfadiazine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D013418</DescriptorUI>
+     <DescriptorName>
+      <String>Sulfamethazine</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D013432</DescriptorUI>
+     <DescriptorName>
+      <String>Sulfathiazoles</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Lancet 2(7977):143;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0059659</ConceptUI>
+    <ConceptName>
+     <String>Streptotriad</String>
+    </ConceptName>
+    <CASN1Name>D-Streptamine, O- 2-deoxy-2-(methylamino)-alpha-L-glucopyranosyl-(1-2)-O-5-deoxy-3-C-formyl-alpha-L-lyxofuranosyl-(1-4)-N,N'-bis(aminoiminomethyl)-, sulfate (2:3) (salt), mixt. with 4-amino-N-(4,6-dimethyl-2-pyrimidinyl)benzenesulfonamide, 4-amino-N-2-pyrimidinylbenzenesulfonamide and 4-amino-N-2-thiazolylbenzenesulfonamide</CASN1Name>
+    <RegistryNumber>79028-52-7</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T089662</TermUI>
+      <String>Streptotriad</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+<SupplementalRecord SCRClass = "1">
+  <SupplementalRecordUI>C012930</SupplementalRecordUI>
+  <SupplementalRecordName>
+   <String>dimethyl-3,3'-(dithiahexamethylenedioxy)dipropionimidate</String>
+  </SupplementalRecordName>
+  <DateCreated>
+   <Year>1976</Year>
+   <Month>01</Month>
+   <Day>01</Day>
+  </DateCreated>
+  <DateRevised>
+   <Year>1998</Year>
+   <Month>05</Month>
+   <Day>20</Day>
+  </DateRevised>
+  <Note>reagent suitable for cross-linking of proteins; structure; RN given refers to HCl
+  </Note>
+  <Frequency>0</Frequency>
+  <PreviousIndexingList>
+   <PreviousIndexing>*IMIDES (76-80)</PreviousIndexing>
+   <PreviousIndexing>DISULFIDES (76-82)</PreviousIndexing>
+  </PreviousIndexingList>
+  <HeadingMappedToList>
+   <HeadingMappedTo>
+    <DescriptorReferredTo>
+     <DescriptorUI>*D007096</DescriptorUI>
+     <DescriptorName>
+      <String>Imidoesters</String>
+     </DescriptorName>
+    </DescriptorReferredTo>
+   </HeadingMappedTo>
+  </HeadingMappedToList>
+  <SourceList>
+   <Source>Hoppe-Seyler's Z Physiol Chem 357(3):477;1976</Source>
+  </SourceList>
+  <ConceptList>
+   <Concept PreferredConceptYN="Y">
+    <ConceptUI>M0060299</ConceptUI>
+    <ConceptName>
+     <String>dimethyl-3,3'-(dithiahexamethylenedioxy)dipropionimidate</String>
+    </ConceptName>
+    <CASN1Name>Propanimidic acid, 3,3'-(dithiobis(2,1-ethanediyloxy))bis-, dimethyl ester, dihydrochloride</CASN1Name>
+    <RegistryNumber>59759-98-7</RegistryNumber>
+    <TermList>
+     <Term  ConceptPreferredTermYN="Y"  IsPermutedTermYN="N"  LexicalTag="NON"  RecordPreferredTermYN="Y">
+      <TermUI>T090302</TermUI>
+      <String>dimethyl-3,3'-(dithiahexamethylenedioxy)dipropionimidate</String>
+      <ThesaurusIDlist>
+       <ThesaurusID>NLM (1976)</ThesaurusID>
+      </ThesaurusIDlist>
+     </Term>
+    </TermList>
+   </Concept>
+  </ConceptList>
+ </SupplementalRecord>
+</SupplementalRecordSet>
