@@ -1,5 +1,5 @@
 
-# # Praedicat assignment
+# # Assignment
 
 # In this assignment I have four data sets that each includes different properties of chemical compound.
 # The goal is to have a database that contains name, CAS number, the source/s and some properties that are optional.
